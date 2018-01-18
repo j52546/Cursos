@@ -1,0 +1,26 @@
+body{
+    margin: 0;
+}
+.texto{
+    width: 300px;
+    height: 1000px;
+    background-color: #EEEEEEEE;
+    color: #FF0000;
+    font-size: 20px;
+    text-align: center;
+    text-decoration: underline;
+
+    margin: auto;
+    margin-top: 20px;
+
+}
+.flutuante{
+
+    height: 100px;
+    background-color: red;
+    color: #ffffff;
+    position: fixed;
+    left: 0px;
+    bottom: 0px;
+
+}
